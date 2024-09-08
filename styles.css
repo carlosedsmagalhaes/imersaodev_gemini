@@ -101,6 +101,12 @@ section button:hover {
     margin: 0.5rem 0; /* Margem acima e abaixo */
 }
 
+/* Estiliza a descrição de resultados não encontrados */
+.resultado-pesquisa-vazia{
+    color:#F5F7F8; /* Cor do texto */
+
+}
+
 /* Estiliza o rodapé da página */
 footer {
     background-color: #F5F7F8; /* Cor de fundo do rodapé */
