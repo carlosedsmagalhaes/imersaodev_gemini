@@ -19,4 +19,4 @@ Este projeto é um buscador web que permite encontrar informações sobre divers
 
 1. **Clone o repositório:**
    ```bash
-   git clone [URL inválido removido]
+   git clone [https://github.com/carlosedsmagalhaes/imersaodev_gemini/tree/main]
